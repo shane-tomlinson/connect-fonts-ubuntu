@@ -1,0 +1,29 @@
+{
+  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-ubuntu",
+  "description": "Ubuntu font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "ubuntu-bold", "ubuntu-bolditalic", "ubuntu-italic", "ubuntu-light", "ubuntu-lightitalic", "ubuntu-medium", "ubuntu-mediumitalic", "ubuntu-regular"],
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-ubuntu",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "UFL-1.0",
+      "url": "http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-ubuntu"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
+
